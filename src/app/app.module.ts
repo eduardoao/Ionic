@@ -13,6 +13,7 @@ import { CarrosServiceProvider } from '../providers/carros-service/carros-servic
   declarations: [
     MyApp,
     HomePage
+    
   ],
   imports: [
     BrowserModule,
